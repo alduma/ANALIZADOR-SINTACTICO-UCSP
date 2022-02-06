@@ -1,5 +1,5 @@
 # ANALIZADOR-SINTACTICO-UCSP
-analizador sintactico de pascal
+analizador sintactico de pascal en c++<br />
 Curso : Compiladores Grupo CCOMP8-1<br />
 Alumno : Alvaro Diego Durand Manrique<br />
 INSTRUCCIONES :
